@@ -10,3 +10,8 @@ body {
   #sublinhado {
     text-decoration: none;
   }
+
+  .image:hover {
+    opacity: 0.8;
+    transition: 0.8s ease-in;  
+  }
