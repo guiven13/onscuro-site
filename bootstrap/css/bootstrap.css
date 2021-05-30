@@ -5221,7 +5221,7 @@ textarea.form-control-lg {
   pointer-events: none;
 }
 .modal.fade .modal-dialog {
-  transition: transform 0.3s ease-out;
+  transition: transform 1.0s ease-out;
   transform: translate(0, -50px);
 }
 @media (prefers-reduced-motion: reduce) {
@@ -5230,10 +5230,12 @@ textarea.form-control-lg {
   }
 }
 .modal.show .modal-dialog {
-  transform: none;
+  transition: transform 0.8s ease;
+  transform: translate(0, -25px);
 }
 .modal.modal-static .modal-dialog {
   transform: scale(1.02);
+  
 }
 
 .modal-dialog-scrollable {
