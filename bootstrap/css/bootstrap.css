@@ -4350,10 +4350,9 @@ textarea.form-control-lg {
   border-bottom-left-radius: calc(0.25rem - 1px);
 }
 
-.image:hover {
-  opacity: 0.8;
-  transition: 0.8s ease-in;  
-}
+
+
+
 
 .card-group > .card {
   margin-bottom: 0.75rem;
