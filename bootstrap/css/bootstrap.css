@@ -2987,8 +2987,8 @@ textarea.form-control-lg {
 
 .btn-success {
   color: #fff;
-  background-color: #198754;
-  border-color: #198754;
+  background-color: #514a2e;
+  border-color: #514A2E;
 }
 .btn-success:hover {
   color: #fff;
@@ -3221,7 +3221,7 @@ textarea.form-control-lg {
 }
 .btn-outline-success:hover {
   color: #fff;
-  background-color: #198754;
+  background-color:#198754;
   border-color: #198754;
 }
 .btn-check:focus + .btn-outline-success, .btn-outline-success:focus {
